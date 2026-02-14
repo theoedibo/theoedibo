@@ -2,7 +2,8 @@
 
 **theoedibo · he/him**
 
-Data Engineer | Strategic Analyst | Power BI • SQL • Excel | AI Automation for Business Operations (Agric, Edu & SME) | Data Migration Expert
+Data Engineer | Strategic Analyst | Power BI • SQL • Excel | AI Automation for Business Operations (Agric, Edu & SME) | Data Migration Expert | Abuja, Nigeria (Open to remote opportunities)
+
 
 ---
 
@@ -81,6 +82,6 @@ I’m open to collaboration, innovative projects, and meaningful conversations a
 
  **Email:** [edibotheophilus@gmail.com]
  **LinkedIn:** www.linkedin.com/in/theophilus-edibo-7b857935a
- **Location:** Abuja, Nigeria
+ **Location:** Abuja, Nigeria (Open to remote opportunities)
 
 > *“Data is only powerful when it’s structured, accessible, and actionable.”*
