@@ -2,7 +2,7 @@
 
 **theoedibo · he/him**
 
-Data Engineer | Strategic Analyst | Power BI • SQL • Excel | AI Automation for Business Operations (Agric, Edu & SME)
+Data Engineer | Strategic Analyst | Power BI • SQL • Excel | AI Automation for Business Operations (Agric, Edu & SME) | Data Migration Expert
 
 ---
 
