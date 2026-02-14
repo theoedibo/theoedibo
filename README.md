@@ -2,15 +2,17 @@
 
 **theoedibo · he/him**
 
-*_Data Engineer | Strategic Analyst | Power BI • SQL • Excel | AI Automation for Business Operations (Agric, Edu & SME)_*
+Data Engineer | Strategic Analyst | Power BI • SQL • Excel | AI Automation for Business Operations (Agric, Edu & SME)
 
 ---
 
 ### About Me
 
-I’m a data-driven problem solver, passionate about transforming raw, complex data into actionable intelligence. My work centers on designing and optimizing **ETL/ELT pipelines**, enabling seamless **data migration**, and building scalable architectures that power business intelligence and AI-driven systems.
+As a Data Engineer and Strategic Analyst, I specialize in the architecture and optimization of data systems that drive digital transformation. My work focuses on bridging the gap between raw data and strategic decision-making, particularly within the Agriculture, Education, and SME sectors. I integrate core engineering principles with AI automation to replace manual bottlenecks with scalable, intelligent workflows.
 
-I specialize in creating reliable data backbones that support digital transformation initiatives — ensuring data flows efficiently, securely, and accurately across systems.
+My technical expertise encompasses the design and management of SQL databases, high-fidelity data migration, and the development of comprehensive analytical frameworks using Power BI and Excel. Beyond the initial migration of data, my role involves the creation of automated ETL pipelines—Extract, Transform, and Load—to ensure that information flows seamlessly from source to dashboard without manual intervention. This includes the implementation of robust data modeling techniques, such as star and snowflake schemas, to optimize query performance and reporting efficiency.
+
+In the evolving landscape of business operations, I leverage AI Agent automation to digitalize legacy processes. This extends into the realm of data orchestration, where I manage the scheduling and monitoring of complex data workflows to ensure high availability and data integrity. As I continue to scale my technical footprint, I focus on cloud architecture and data warehousing solutions that allow organizations to store, process, and secure massive datasets. My goal is to engineer resilient data ecosystems that empower stakeholders to move from reactive troubleshooting to proactive, data-driven growth.
 
 ---
 
