@@ -80,7 +80,7 @@ To architect intelligent, automated data ecosystems that not only support digita
 I’m open to collaboration, innovative projects, and meaningful conversations around data engineering, BI, and AI automation.
 
  **Email:** [edibotheophilus@gmail.com](mailto:edibotheophilus@gmail.com)
- **LinkedIn:** [https://linkedin.com/in/theophilus-edibo](https://linkedin.com/in/theophilus-edibo)
+ **LinkedIn:** www.linkedin.com/in/theophilus-edibo-7b857935a
  **Location:** Abuja, Nigeria
 
 > *“Data is only powerful when it’s structured, accessible, and actionable.”*
