@@ -1,6 +1,6 @@
 ---
 
-# Hi, I'm Theophilus Edibo 👋
+# Hi, I'm Theophilus Edibo, 👋
 
 **theoedibo · he/him**
 
@@ -31,7 +31,7 @@ I'm passionate about building systems that are scalable, maintainable, and desig
 * Intelligent document processing
 * AI agent integrations
 * Workflow orchestration using n8n
-
+7
 ### ⚙️ Backend Development
 
 * RESTful API development
