@@ -1,87 +1,158 @@
-## Hi, I'm Theophilus Edibo
+---
+
+# Hi, I'm Theophilus Edibo 👋
 
 **theoedibo · he/him**
 
-Data Engineer | Strategic Analyst | Power BI • SQL • Excel | AI Automation for Business Operations (Agric, Edu & SME) | Data Migration Expert | Abuja, Nigeria (Open to remote opportunities)
-
-
----
-
-### About Me
-
-As a Data Engineer and Strategic Analyst, I specialize in the architecture and optimization of data systems that drive digital transformation. My work focuses on bridging the gap between raw data and strategic decision-making, particularly within the Agriculture, Education, and SME sectors. I integrate core engineering principles with AI automation to replace manual bottlenecks with scalable, intelligent workflows.
-
-My technical expertise encompasses the design and management of SQL databases, high-fidelity data migration, and the development of comprehensive analytical frameworks using Power BI and Excel. Beyond the initial migration of data, my role involves the creation of automated ETL pipelines (Extract, Transform, and Load) to ensure that information flows seamlessly from source to dashboard without manual intervention. This includes the implementation of robust data modeling techniques, such as star and snowflake schemas, to optimize query performance and reporting efficiency.
-
-In the evolving landscape of business operations, I leverage AI Agent automation to digitalize legacy processes. This extends into the realm of data orchestration, where I manage the scheduling and monitoring of complex data workflows to ensure high availability and data integrity. As I continue to scale my technical footprint, I focus on cloud architecture and data warehousing solutions that allow organizations to store, process, and secure massive datasets. My goal is to engineer resilient data ecosystems that empower stakeholders to move from reactive troubleshooting to proactive, data-driven growth.
+**AI Automation Engineer | Backend Developer (Node.js & Express) | Python • SQL • PostgreSQL • n8n • REST APIs | Building Intelligent Business Systems | Abuja, Nigeria (Open to Remote Opportunities)**
 
 ---
 
-###  What I Do
+# About Me
 
-🔹 **Data Engineering & Migration**
+I'm an AI Automation Engineer transitioning into Backend Development, focused on building intelligent systems that automate business operations and power modern web applications.
 
-* Design and implement scalable ETL/ELT workflows
-* Perform structured and large-scale data migrations
-* Optimize database performance and ensure data integrity
+My background is in designing automation workflows, data pipelines, and AI-powered business solutions that eliminate repetitive work and improve operational efficiency. I enjoy solving real business problems by combining backend engineering with AI automation—building systems that don't just process data, but make decisions and trigger actions automatically.
 
-🔹 **Business Intelligence & Analytics**
+As I expand into backend development, I'm building production-ready applications with **Node.js, Express, PostgreSQL, REST APIs, authentication, and database design** while applying software engineering best practices such as clean architecture, modular code organization, error handling, testing, and scalable system design.
 
-* Develop insightful dashboards and reporting systems
-* Translate business needs into efficient data models
-* Enable data-informed decision-making
+I believe backend development and AI automation naturally complement each other. A reliable backend provides the foundation for intelligent automation, while automation brings software to life by reducing manual processes and connecting services seamlessly.
 
-🔹 **AI Agent Automation**
-
-* Build intelligent automation systems powered by AI
-* Integrate AI agents into enterprise data ecosystems
-* Streamline workflows with smart orchestration
+I'm passionate about building systems that are scalable, maintainable, and designed for real-world use.
 
 ---
 
-### Tech Stack
+# What I Build
 
-**Languages & Tools**
+### 🤖 AI Automation Systems
 
-* 🐍 Python
-* 🗄 SQL
-* 📊 Excel
+* AI-powered workflow automation
+* Business process automation
+* Intelligent document processing
+* AI agent integrations
+* Workflow orchestration using n8n
 
-**Core Competencies**
+### ⚙️ Backend Development
 
-* Data Warehousing
-* Data Modeling
-* Pipeline Orchestration
-* Automation Architecture
-* Performance Optimization
+* RESTful API development
+* Authentication & authorization
+* CRUD applications
+* Database design & optimization
+* Server-side application architecture
+* Secure backend services
+
+### 🗄 Databases & Data
+
+* PostgreSQL
+* MySQL
+* SQL
+* Data modeling
+* ETL pipelines
+* Data migration
+
+### 🔌 System Integrations
+
+* Third-party API integrations
+* Webhooks
+* Automation pipelines
+* Email services
+* Background jobs
+* Scheduled workflows
 
 ---
 
-### My Approach
+# Tech Stack
 
-I believe strong digital systems start with strong data foundations. My focus is on:
+### Languages
 
-* Scalability
-* Reliability
-* Automation
-* Clean, maintainable architecture
+* JavaScript
+* Python
+* SQL
 
-Every project I work on is built with long-term efficiency and growth in mind.
+### Backend
+
+* Node.js
+* Express.js
+* REST APIs
+* JWT Authentication
+
+### Databases
+
+* PostgreSQL
+* MySQL
+* SQLite
+
+### Automation
+
+* n8n
+* AI Agents
+* Workflow Automation
+* Webhooks
+
+### Tools
+
+* Git
+* GitHub
+* Docker (Learning)
+* Postman
+* VS Code
 
 ---
 
-### Vision
+# Currently Learning
 
-To architect intelligent, automated data ecosystems that not only support digital transformation — but accelerate it.
+* Backend System Design
+* Docker & Containerization
+* Authentication & Security
+* Testing (Jest)
+* Cloud Deployment
+* CI/CD
+* Microservices Architecture
 
 ---
 
-### Let’s Connect
+# Featured Projects
 
-I’m open to collaboration, innovative projects, and meaningful conversations around data engineering, BI, and AI automation.
+* 🤖 AI-powered Business Automation Workflows
+* 📄 TenderPilot AI – Intelligent Tender Discovery & Qualification System
+* 🏡 Automated Real Estate ETL Pipeline
+* 🌾 Climate Impact Data Pipeline
+* 🌐 Backend REST APIs with Node.js & Express
 
- **Email:** [edibotheophilus@gmail.com]
- **LinkedIn:** www.linkedin.com/in/theophilus-edibo-7b857935a
- **Location:** Abuja, Nigeria (Open to remote opportunities)
+---
 
-> *“Data is only powerful when it’s structured, accessible, and actionable.”*
+# My Approach
+
+I enjoy building software that solves practical problems rather than adding unnecessary complexity.
+
+My priorities are:
+
+* Clean, maintainable code
+* Scalable architecture
+* Automation-first thinking
+* Reliable backend systems
+* Continuous learning
+
+I believe the best software quietly handles the repetitive work so people can focus on higher-value decisions.
+
+---
+
+# Vision
+
+To become a backend engineer who builds scalable software systems enhanced with AI automation—creating applications that are reliable, intelligent, and impactful.
+
+---
+
+# Let's Connect
+
+📧 **Email:** [edibotheophilus@gmail.com](mailto:edibotheophilus@gmail.com)
+
+💼 **LinkedIn:** [www.linkedin.com/in/theophilus-edibo-7b857935a](http://www.linkedin.com/in/theophilus-edibo-7b857935a)
+
+📍 Abuja, Nigeria (Open to Remote Opportunities)
+
+---
+
+> *"Great software doesn't just work—it automates, scales, and solves real problems."*
+
+---
